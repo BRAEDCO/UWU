@@ -1,0 +1,7 @@
+requests
+pystyle
+datetime
+console
+AutoUpdate
+win10toast
+psutil
